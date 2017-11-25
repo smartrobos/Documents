@@ -1,0 +1,9 @@
+
+1.Clear NPM's cache:
+sudo npm cache clean -f
+
+2.Install a little helper called 'n'
+sudo npm install -g n
+
+3.Install latest stable Node.js version
+sudo n stable
